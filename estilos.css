@@ -1,0 +1,63 @@
+.titulo{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: burlywood;
+    color: white;
+}
+.nombre{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+.tabla{
+    margin: auto;
+    border: 1px burlywood solid;
+    width: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+.casilla{
+    border: 1px burlywood solid;
+}
+.subtitulo{
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.datos{
+    width: 50%;
+    border: 3px burlywood solid;
+    margin: auto;
+    padding-left: 50px;
+    padding-top: 0;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    border-radius: 5px;
+    background-color: rgb(255, 247, 237);
+}
+.subtitulo2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(224, 168, 94) ;
+}
+footer{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    text-align: center;
+    color: white;
+}
+summary{
+    color: rgb(224, 168, 94);
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-image: url("2280-paisajes.jpg");
+}
+form{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+a{
+    color: white;
+}
